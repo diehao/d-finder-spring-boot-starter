@@ -1,4 +1,4 @@
-package com.diehao.demo;
+package io.github.diehao.demo;
 
 import lombok.Data;
 

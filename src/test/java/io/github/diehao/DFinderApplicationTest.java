@@ -1,8 +1,8 @@
-package com.diehao;
+package io.github.diehao;
 
-import com.diehao.demo.DemoFinder;
-import com.diehao.demo.Demos;
-import com.diehao.support.ContidiontReader;
+import io.github.diehao.demo.DemoFinder;
+import io.github.diehao.demo.Demos;
+import io.github.diehao.support.ContidiontReader;
 
 class DFinderApplicationTest {
 

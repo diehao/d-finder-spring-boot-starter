@@ -1,4 +1,4 @@
-package com.diehao.parsing;
+package io.github.diehao.parsing;
 
 import java.io.Serializable;
 import java.lang.invoke.SerializedLambda;

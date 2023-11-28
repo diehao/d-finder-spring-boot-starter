@@ -1,6 +1,6 @@
-package com.diehao.demo;
+package io.github.diehao.demo;
 
-import com.diehao.support.AbstractFinder;
+import io.github.diehao.support.AbstractFinder;
 
 public class DemoFinder extends AbstractFinder<Demos> {
 

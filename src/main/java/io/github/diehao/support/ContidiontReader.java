@@ -1,6 +1,6 @@
-package com.diehao.support;
+package io.github.diehao.support;
 
-import com.diehao.parsing.ParameterParseHandler;
+import io.github.diehao.parsing.ParameterParseHandler;
 
 import javax.annotation.Nullable;
 import java.util.function.Function;

@@ -1,6 +1,6 @@
-package com.diehao.support;
+package io.github.diehao.support;
 
-import com.diehao.parsing.ParseFunction;
+import io.github.diehao.parsing.ParseFunction;
 
 import java.util.ArrayList;
 import java.util.List;

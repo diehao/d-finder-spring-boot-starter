@@ -1,4 +1,4 @@
-package com.diehao;
+package io.github.diehao;
 
 public class DFinderApplication {
 

@@ -1,4 +1,4 @@
-package com.diehao.type;
+package io.github.diehao.type;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,6 @@
-package com.diehao.type;
+package io.github.diehao.type;
 
-import com.diehao.util.LocalKit;
+import io.github.diehao.util.LocalKit;
 
 import javax.annotation.Nullable;
 

@@ -1,7 +1,7 @@
-package com.diehao.parsing;
+package io.github.diehao.parsing;
 
-import com.diehao.support.AbstractFinder;
-import com.diehao.support.FinderDefinition;
+import io.github.diehao.support.AbstractFinder;
+import io.github.diehao.support.FinderDefinition;
 
 import java.lang.reflect.Method;
 import java.util.List;
