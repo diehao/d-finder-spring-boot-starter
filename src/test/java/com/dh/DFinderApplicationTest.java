@@ -1,17 +1,18 @@
 package com.dh;
 
-import org.junit.Test;
+import com.dh.demo.DemoFinder;
+import com.dh.demo.Demos;
+import com.dh.support.ContidiontReader;
 
 class DFinderApplicationTest {
 
-    @Test
-    public void as() {
-        System.out.println("111");
-    }
-
-
     public static void main(String[] args) {
-        System.out.println("hi");
+        ContidiontReader reader = new ContidiontReader(new DemoFinder());
+
+        Demos var0 = new Demos("小A", 2, "beijing");
+        Demos var2 = new Demos("小B", 2, "zhengzhou");
+        String df = reader.read(var0, var2);
+        System.out.println(df);
     }
 
 }

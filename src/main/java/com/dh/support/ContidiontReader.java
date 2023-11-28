@@ -1,12 +1,10 @@
 package com.dh.support;
 
 import com.dh.parsing.ParameterParseHandler;
-import lombok.Data;
 
 import javax.annotation.Nullable;
 import java.util.function.Function;
 
-@Data
 public class ContidiontReader {
 
     private FinderDefinition definition;
