@@ -1,6 +1,6 @@
-package com.dh.type;
+package com.diehao.type;
 
-import com.dh.util.LocalKit;
+import com.diehao.util.LocalKit;
 
 import javax.annotation.Nullable;
 

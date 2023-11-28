@@ -1,8 +1,8 @@
-package com.dh.support;
+package com.diehao.support;
 
-import com.dh.parsing.ParseFunction;
-import com.dh.type.TypeHandle;
-import com.dh.type.TypeRegisterCenter;
+import com.diehao.parsing.ParseFunction;
+import com.diehao.type.TypeHandle;
+import com.diehao.type.TypeRegisterCenter;
 import lombok.Getter;
 
 import javax.annotation.Nullable;

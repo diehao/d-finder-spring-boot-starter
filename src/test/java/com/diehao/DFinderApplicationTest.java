@@ -1,8 +1,8 @@
-package com.dh;
+package com.diehao;
 
-import com.dh.demo.DemoFinder;
-import com.dh.demo.Demos;
-import com.dh.support.ContidiontReader;
+import com.diehao.demo.DemoFinder;
+import com.diehao.demo.Demos;
+import com.diehao.support.ContidiontReader;
 
 class DFinderApplicationTest {
 

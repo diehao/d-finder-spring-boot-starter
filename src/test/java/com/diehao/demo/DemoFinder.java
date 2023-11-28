@@ -1,6 +1,6 @@
-package com.dh.demo;
+package com.diehao.demo;
 
-import com.dh.support.AbstractFinder;
+import com.diehao.support.AbstractFinder;
 
 public class DemoFinder extends AbstractFinder<Demos> {
 

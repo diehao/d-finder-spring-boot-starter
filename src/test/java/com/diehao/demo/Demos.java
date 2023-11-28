@@ -1,4 +1,4 @@
-package com.dh.demo;
+package com.diehao.demo;
 
 import lombok.Data;
 

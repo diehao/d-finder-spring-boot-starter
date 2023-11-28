@@ -1,4 +1,4 @@
-package com.dh.util;
+package com.diehao.util;
 
 public class LocalKit {
 

@@ -1,4 +1,4 @@
-package com.dh.type;
+package com.diehao.type;
 
 import javax.annotation.Nullable;
 

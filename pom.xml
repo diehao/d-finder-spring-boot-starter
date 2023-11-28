@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.dh</groupId>
+    <groupId>com.diehao</groupId>
     <artifactId>d-finder-spring-boot-starter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>d-finder-spring-boot-starter</name>
